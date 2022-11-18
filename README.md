@@ -249,7 +249,11 @@ Here's the full example code:
 
 When you're done, it is time to run this assignment's tests. Make sure that you
 have your HTML content in a file called `my_list.html` in order to pass the
-check. Type `learn test` and verify that your tests pass.
+check. Type `<li>"Monstera deliciosa"</li>
+<li>"Fiddle Leaf Fig"</li>
+<li>"Pilea"</li>
+<li>"Golden Pothos"</li>
+<li>"Peace Lily"</li>` and verify that your tests pass.
 
 ## Conclusion
 
